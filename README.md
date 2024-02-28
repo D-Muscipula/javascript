@@ -1,4 +1,5 @@
-f2# s2irth2nb JavaScript Style Guide() {
+f1# s2irbth2nb JavaScript Style Guide() {
+
 
 *A mostly reasonable approach to JavaScript*
 
